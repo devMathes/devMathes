@@ -34,4 +34,4 @@
     
 </picture>
 <br><br>
-Passionate about technology and constantly seeking to grow and improve.
+<h3>Passionate about technology and constantly seeking to grow and improve.</h3>
