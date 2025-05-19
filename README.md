@@ -24,10 +24,6 @@
   </tr>
 </table>
 
-## 🐍 Snake GitHub Contribution Graph
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/devMathes/devMathes/output/github-contribution-grid-snake-dark.svg)
-
     
 </picture>
 <br><br>
