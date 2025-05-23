@@ -11,7 +11,7 @@
      <img align="center" alt="bootstrap" src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
 </div><br/>
 
-### * GitHub Stats *
+###  GitHub Stats 
 
 <table>
   <tr>
