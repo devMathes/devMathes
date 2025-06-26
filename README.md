@@ -24,6 +24,11 @@
   </tr>
 </table>
 
+### 🐍 Snake comendo meus quadradinhos do GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devMathes/devMathes/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
     
